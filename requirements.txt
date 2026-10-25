@@ -1,0 +1,13 @@
+# Python 3.8.10 / Windows 7 SP1. Do not replace with esptool 5.x.
+esptool==4.8.1
+pyserial==3.5
+bitstring==4.1.4
+bitarray==2.9.2
+cryptography==40.0.2
+cffi==1.16.0
+pycparser==2.22
+ecdsa==0.19.0
+six==1.16.0
+reedsolo==1.7.0
+PyYAML==6.0.2
+intelhex==2.3.0

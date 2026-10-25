@@ -1,0 +1,10 @@
+# Build with the official 32-bit Python 3.8.10 for Windows 7 x86/x64.
+-r requirements.txt
+PyInstaller==5.13.2
+pyinstaller-hooks-contrib==2023.8
+altgraph==0.17.4
+pefile==2023.2.7
+pywin32-ctypes==0.2.2
+importlib-metadata==6.8.0
+zipp==3.20.2
+packaging==24.2

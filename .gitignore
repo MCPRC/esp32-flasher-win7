@@ -1,0 +1,12 @@
+.tools/
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+!win7.spec
+firmware/*/build-*/
+/firmware/
+/wheelhouse/
+/*.zip
